@@ -1,2 +1,2 @@
 # KaggleCompetition
-Kaggle Competition
+Bigdata Analysis in Kaggle Competition
